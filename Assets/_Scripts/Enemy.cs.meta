@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 4cb2f705230807548b0aae901927165b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _crabDead: {fileID: 8150138884638364312, guid: e7a813ce53961264683da5d196c521bf, type: 3}
+  - hitEffect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
